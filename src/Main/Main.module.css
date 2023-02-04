@@ -1,0 +1,6 @@
+.mainPart {
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background: rgb(24, 32, 64);
+    padding: 2%;
+}
