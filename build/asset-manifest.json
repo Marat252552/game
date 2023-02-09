@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b3e6019.css",
+    "main.js": "/static/js/main.656b942b.js",
+    "static/js/787.6a541d2d.chunk.js": "/static/js/787.6a541d2d.chunk.js",
+    "static/media/nastya.jpg": "/static/media/nastya.e21ab566f5d07a34c317.jpg",
+    "static/media/screenshot4.png": "/static/media/screenshot4.e651a3fc235554bb82d6.png",
+    "static/media/meme_2.jpg": "/static/media/meme_2.94746a4059513faee944.jpg",
+    "static/media/screenshot.png": "/static/media/screenshot.e2c9f8f8ba774c266ccf.png",
+    "static/media/prize3.jpg": "/static/media/prize3.bd695c1a266c64897afb.jpg",
+    "static/media/screenshot3.png": "/static/media/screenshot3.452b9d41d16c48215d54.png",
+    "static/media/screenshot2.png": "/static/media/screenshot2.e0421a823ae54d8a4917.png",
+    "static/media/legs.jpg": "/static/media/legs.9ddf2daebea2ced2e4c8.jpg",
+    "static/media/meme_zoolander.jpg": "/static/media/meme_zoolander.3b04e1bc492d128824b6.jpg",
+    "static/media/meme_sasuke.jpg": "/static/media/meme_sasuke.4c19a27c2247311f895b.jpg",
+    "static/media/usure.jpg": "/static/media/usure.28dc7bc11373a155b8bc.jpg",
+    "static/media/prize2.jpg": "/static/media/prize2.b7a3a47248ec75b4fc1b.jpg",
+    "static/media/ahmed.jpg": "/static/media/ahmed.292081ae1289a8e2fd4d.jpg",
+    "static/media/kate.jpg": "/static/media/kate.32558ab0e7186ca4a069.jpg",
+    "static/media/user.jpg": "/static/media/user.6ba7eea037af5224699b.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.9b3e6019.css.map": "/static/css/main.9b3e6019.css.map",
+    "main.656b942b.js.map": "/static/js/main.656b942b.js.map",
+    "787.6a541d2d.chunk.js.map": "/static/js/787.6a541d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3e6019.css",
+    "static/js/main.656b942b.js"
+  ]
+}
